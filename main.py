@@ -1,2 +1,3 @@
 Event_name = "DeployX"
-Topic = "MLOPS"    
+Topic = "MLOPS"   
+Trainer = "Govind Gupta"
